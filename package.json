@@ -1,18 +1,16 @@
 {
   "name": "parse-regexp",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "homepage": "https://github.com/dominictarr/parse-regexp",
   "repository": {
     "type": "git",
     "url": "git://github.com/dominictarr/parse-regexp.git"
   },
-  "dependencies": {
-  },
-  "devDependencies": {
-  },
+  "dependencies": {},
+  "devDependencies": {},
   "scripts": {
     "test": "node test/index.js"
   },
   "author": "'Dominic Tarr' <dominic.tarr@gmail.com> (http://dominictarr.com)",
-  "license": "MIT"  
+  "license": "MIT"
 }
