@@ -12,6 +12,10 @@ Put RegExps in your config files or, or use them as object keys!
   => /whatever/m
 
 ```
+
+If you are using this to parse user input I would recommend
+first passing the regular expression through [safe-regex](https://github.com/substack/safe-regex)
+
 ## License
 
 MIT
